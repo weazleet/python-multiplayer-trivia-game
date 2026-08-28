@@ -1,0 +1,4475 @@
+{
+    "Technology": [
+        {
+            "text": "Which company developed the Windows operating system?",
+            "answers": [
+                "Apple",
+                "Microsoft",
+                "IBM"
+            ],
+            "correct_answer": "Microsoft",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which device is primarily used to move a pointer around a computer screen?",
+            "answers": [
+                "Mouse",
+                "Router",
+                "Scanner"
+            ],
+            "correct_answer": "Mouse",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which of these is a web browser?",
+            "answers": [
+                "Firefox",
+                "Windows",
+                "Python"
+            ],
+            "correct_answer": "Firefox",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which device is commonly used to take digital photographs?",
+            "answers": [
+                "Camera",
+                "Router",
+                "Projector"
+            ],
+            "correct_answer": "Camera",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which company makes the iPhone?",
+            "answers": [
+                "Apple",
+                "Samsung",
+                "Sony"
+            ],
+            "correct_answer": "Apple",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What does Wi-Fi allow devices to do?",
+            "answers": [
+                "Connect to a network wirelessly",
+                "Increase screen resolution",
+                "Charge without electricity"
+            ],
+            "correct_answer": "Connect to a network wirelessly",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which file extension is commonly used for a JPEG image?",
+            "answers": [
+                ".jpg",
+                ".mp3",
+                ".txt"
+            ],
+            "correct_answer": ".jpg",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is a smartphone app?",
+            "answers": [
+                "A software application",
+                "A type of battery",
+                "A network cable"
+            ],
+            "correct_answer": "A software application",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which of these is a search engine?",
+            "answers": [
+                "Google",
+                "Bluetooth",
+                "Windows"
+            ],
+            "correct_answer": "Google",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is cloud storage mainly used for?",
+            "answers": [
+                "Storing files on remote servers",
+                "Cooling computer parts",
+                "Increasing monitor brightness"
+            ],
+            "correct_answer": "Storing files on remote servers",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which number system uses only the digits 0 and 1?",
+            "answers": [
+                "Binary",
+                "Decimal",
+                "Hexadecimal"
+            ],
+            "correct_answer": "Binary",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What does GPS stand for?",
+            "answers": [
+                "Global Positioning System",
+                "General Positioning Service",
+                "Global Processing Signal"
+            ],
+            "correct_answer": "Global Positioning System",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is Bluetooth mainly designed for?",
+            "answers": [
+                "Short-range wireless communication",
+                "Satellite television",
+                "Long-distance fibre networking"
+            ],
+            "correct_answer": "Short-range wireless communication",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is two-factor authentication designed to improve?",
+            "answers": [
+                "Account security",
+                "Internet speed",
+                "Screen brightness"
+            ],
+            "correct_answer": "Account security",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is phishing?",
+            "answers": [
+                "An attempt to trick people into revealing sensitive information",
+                "A method for compressing video",
+                "A way to speed up a processor"
+            ],
+            "correct_answer": "An attempt to trick people into revealing sensitive information",
+            "category": "Technology",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What does CPU stand for?",
+            "answers": [
+                "Central Processing Unit",
+                "Computer Personal Unit",
+                "Central Program Utility"
+            ],
+            "correct_answer": "Central Processing Unit",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What does RAM stand for?",
+            "answers": [
+                "Random Access Memory",
+                "Read Access Memory",
+                "Rapid Application Module"
+            ],
+            "correct_answer": "Random Access Memory",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What does USB stand for?",
+            "answers": [
+                "Universal Serial Bus",
+                "Unified System Board",
+                "Universal Storage Base"
+            ],
+            "correct_answer": "Universal Serial Bus",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What type of device is a keyboard?",
+            "answers": [
+                "Input device",
+                "Output device",
+                "Storage device"
+            ],
+            "correct_answer": "Input device",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which component is primarily used for long-term file storage in a computer?",
+            "answers": [
+                "SSD",
+                "RAM",
+                "CPU"
+            ],
+            "correct_answer": "SSD",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which programming language was created by Guido van Rossum?",
+            "answers": [
+                "Python",
+                "Java",
+                "C++"
+            ],
+            "correct_answer": "Python",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What does HTML primarily describe?",
+            "answers": [
+                "The structure of a web page",
+                "A computer's hardware",
+                "A database password"
+            ],
+            "correct_answer": "The structure of a web page",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which company originally developed the Android operating system before it was acquired by Google?",
+            "answers": [
+                "Android Inc.",
+                "Nokia",
+                "IBM"
+            ],
+            "correct_answer": "Android Inc.",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which storage device has no moving mechanical parts?",
+            "answers": [
+                "Solid-state drive",
+                "Hard disk drive",
+                "Optical disc drive"
+            ],
+            "correct_answer": "Solid-state drive",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What does URL stand for?",
+            "answers": [
+                "Uniform Resource Locator",
+                "Universal Routing Link",
+                "User Resource Location"
+            ],
+            "correct_answer": "Uniform Resource Locator",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which technology is commonly used for contactless card payments?",
+            "answers": [
+                "NFC",
+                "VGA",
+                "SATA"
+            ],
+            "correct_answer": "NFC",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is an operating system?",
+            "answers": [
+                "Software that manages computer hardware and applications",
+                "A type of computer monitor",
+                "A web search engine"
+            ],
+            "correct_answer": "Software that manages computer hardware and applications",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which device converts digital data into a form suitable for transmission over some communication links and back again?",
+            "answers": [
+                "Modem",
+                "Scanner",
+                "Keyboard"
+            ],
+            "correct_answer": "Modem",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is open-source software?",
+            "answers": [
+                "Software whose source code is available to inspect or modify",
+                "Software that never needs a licence",
+                "Software that only works online"
+            ],
+            "correct_answer": "Software whose source code is available to inspect or modify",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Who is credited with inventing the World Wide Web?",
+            "answers": [
+                "Tim Berners-Lee",
+                "Alan Turing",
+                "Steve Wozniak"
+            ],
+            "correct_answer": "Tim Berners-Lee",
+            "category": "Technology",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which early graphical web browser helped popularise the World Wide Web in the 1990s?",
+            "answers": [
+                "Mosaic",
+                "Excel",
+                "Photoshop"
+            ],
+            "correct_answer": "Mosaic",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What does OLED stand for?",
+            "answers": [
+                "Organic Light-Emitting Diode",
+                "Optical Light Encoding Display",
+                "Organic Laser Electronic Device"
+            ],
+            "correct_answer": "Organic Light-Emitting Diode",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which company introduced the first commercially successful microprocessor, the 4004?",
+            "answers": [
+                "Intel",
+                "Motorola",
+                "IBM"
+            ],
+            "correct_answer": "Intel",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the standard that underpins most modern Wi-Fi networks?",
+            "answers": [
+                "IEEE 802.11",
+                "IEEE 802.3",
+                "USB 3.0"
+            ],
+            "correct_answer": "IEEE 802.11",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which data structure follows the principle First In, First Out?",
+            "answers": [
+                "Queue",
+                "Stack",
+                "Tree"
+            ],
+            "correct_answer": "Queue",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the maximum value of an unsigned 8-bit integer?",
+            "answers": [
+                "255",
+                "256",
+                "128"
+            ],
+            "correct_answer": "255",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which SQL command removes an entire table and its definition from a database?",
+            "answers": [
+                "DROP TABLE",
+                "DELETE TABLE",
+                "REMOVE TABLE"
+            ],
+            "correct_answer": "DROP TABLE",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What does CAPTCHA primarily attempt to distinguish?",
+            "answers": [
+                "Humans from automated programs",
+                "Fast networks from slow networks",
+                "Encrypted files from unencrypted files"
+            ],
+            "correct_answer": "Humans from automated programs",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which scientist proposed the concept of a universal computing machine now bearing his name?",
+            "answers": [
+                "Alan Turing",
+                "Claude Shannon",
+                "John Bardeen"
+            ],
+            "correct_answer": "Alan Turing",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is Moore's law traditionally associated with?",
+            "answers": [
+                "The growth in transistor counts on integrated circuits",
+                "The speed of radio waves",
+                "The number of users on the internet"
+            ],
+            "correct_answer": "The growth in transistor counts on integrated circuits",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which compression format was developed by Phil Katz and became widely used for file archives?",
+            "answers": [
+                "ZIP",
+                "PNG",
+                "WAV"
+            ],
+            "correct_answer": "ZIP",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the first artificial satellite launched into orbit in 1957?",
+            "answers": [
+                "Sputnik 1",
+                "Voyager 1",
+                "Telstar 1"
+            ],
+            "correct_answer": "Sputnik 1",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which company created the Java programming language?",
+            "answers": [
+                "Sun Microsystems",
+                "Adobe",
+                "Commodore"
+            ],
+            "correct_answer": "Sun Microsystems",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What does RAID commonly combine to improve storage performance, redundancy, or both?",
+            "answers": [
+                "Multiple disk drives",
+                "Multiple monitors",
+                "Multiple keyboards"
+            ],
+            "correct_answer": "Multiple disk drives",
+            "category": "Technology",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "In public-key cryptography, which key is intended to be shared openly?",
+            "answers": [
+                "Public key",
+                "Private key",
+                "Session password"
+            ],
+            "correct_answer": "Public key",
+            "category": "Technology",
+            "difficulty": "Hard"
+        }
+    ],
+    "Sport": [
+        {
+            "text": "How many players does a football team have on the pitch at the start of a match?",
+            "answers": [
+                "9",
+                "11",
+                "13"
+            ],
+            "correct_answer": "11",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sport uses a shuttlecock?",
+            "answers": [
+                "Tennis",
+                "Badminton",
+                "Squash"
+            ],
+            "correct_answer": "Badminton",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "In which sport would you perform a slam dunk?",
+            "answers": [
+                "Basketball",
+                "Volleyball",
+                "Baseball"
+            ],
+            "correct_answer": "Basketball",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sport is played at Wimbledon?",
+            "answers": [
+                "Tennis",
+                "Cricket",
+                "Golf"
+            ],
+            "correct_answer": "Tennis",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sport uses clubs and a small white ball?",
+            "answers": [
+                "Golf",
+                "Hockey",
+                "Baseball"
+            ],
+            "correct_answer": "Golf",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many rings are displayed on the Olympic symbol?",
+            "answers": [
+                "5",
+                "6",
+                "4"
+            ],
+            "correct_answer": "5",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sport is played with a bat, ball and wickets?",
+            "answers": [
+                "Cricket",
+                "Rugby",
+                "Hockey"
+            ],
+            "correct_answer": "Cricket",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "In which sport would you use a racket and a net?",
+            "answers": [
+                "Tennis",
+                "Boxing",
+                "Cycling"
+            ],
+            "correct_answer": "Tennis",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which country hosts the Tour de France?",
+            "answers": [
+                "France",
+                "Italy",
+                "Spain"
+            ],
+            "correct_answer": "France",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What colour card usually means a player is sent off in football?",
+            "answers": [
+                "Red",
+                "Blue",
+                "Green"
+            ],
+            "correct_answer": "Red",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sport is associated with the NBA?",
+            "answers": [
+                "Basketball",
+                "Baseball",
+                "Ice hockey"
+            ],
+            "correct_answer": "Basketball",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many holes are played in a standard round of golf?",
+            "answers": [
+                "18",
+                "12",
+                "24"
+            ],
+            "correct_answer": "18",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sport takes place in a boxing ring?",
+            "answers": [
+                "Boxing",
+                "Archery",
+                "Rowing"
+            ],
+            "correct_answer": "Boxing",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sport uses a puck?",
+            "answers": [
+                "Ice hockey",
+                "Basketball",
+                "Rugby"
+            ],
+            "correct_answer": "Ice hockey",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which boxer was nicknamed 'The Greatest' and was born Cassius Clay?",
+            "answers": [
+                "Muhammad Ali",
+                "Joe Frazier",
+                "George Foreman"
+            ],
+            "correct_answer": "Muhammad Ali",
+            "category": "Sport",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many points is a try worth in rugby union?",
+            "answers": [
+                "3",
+                "5",
+                "7"
+            ],
+            "correct_answer": "5",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the maximum score possible with three darts?",
+            "answers": [
+                "150",
+                "180",
+                "200"
+            ],
+            "correct_answer": "180",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In snooker, which colour ball is worth the most points?",
+            "answers": [
+                "Black",
+                "Pink",
+                "Blue"
+            ],
+            "correct_answer": "Black",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "How long is an Olympic swimming pool?",
+            "answers": [
+                "50 metres",
+                "25 metres",
+                "100 metres"
+            ],
+            "correct_answer": "50 metres",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In cricket, how many legal deliveries are there in a standard over?",
+            "answers": [
+                "6",
+                "5",
+                "8"
+            ],
+            "correct_answer": "6",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the standard maximum break in snooker without a free ball?",
+            "answers": [
+                "147",
+                "155",
+                "140"
+            ],
+            "correct_answer": "147",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which athletics event consists of ten different track and field disciplines?",
+            "answers": [
+                "Decathlon",
+                "Heptathlon",
+                "Pentathlon"
+            ],
+            "correct_answer": "Decathlon",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In which sport would you score a touchdown?",
+            "answers": [
+                "American football",
+                "Tennis",
+                "Cricket"
+            ],
+            "correct_answer": "American football",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which event involves running 42.195 kilometres?",
+            "answers": [
+                "Marathon",
+                "Decathlon",
+                "Triathlon"
+            ],
+            "correct_answer": "Marathon",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "How many players are on court for one volleyball team at a time?",
+            "answers": [
+                "6",
+                "5",
+                "7"
+            ],
+            "correct_answer": "6",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country is traditionally credited as the birthplace of judo?",
+            "answers": [
+                "Japan",
+                "China",
+                "South Korea"
+            ],
+            "correct_answer": "Japan",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "How many points is a conversion worth in rugby union?",
+            "answers": [
+                "2",
+                "3",
+                "1"
+            ],
+            "correct_answer": "2",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In tennis, what score follows deuce if one player wins the next point?",
+            "answers": [
+                "Advantage",
+                "Forty",
+                "Game point"
+            ],
+            "correct_answer": "Advantage",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In baseball, how many strikes normally make an out?",
+            "answers": [
+                "3",
+                "2",
+                "4"
+            ],
+            "correct_answer": "3",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country has won the most men's FIFA World Cups?",
+            "answers": [
+                "Brazil",
+                "Germany",
+                "Italy"
+            ],
+            "correct_answer": "Brazil",
+            "category": "Sport",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country won the first FIFA World Cup in 1930?",
+            "answers": [
+                "Uruguay",
+                "Brazil",
+                "Argentina"
+            ],
+            "correct_answer": "Uruguay",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "In Formula One, what colour flag indicates that a driver must stop because they have been disqualified?",
+            "answers": [
+                "Black",
+                "Red",
+                "Yellow"
+            ],
+            "correct_answer": "Black",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the term for three strikes in a row in ten-pin bowling?",
+            "answers": [
+                "Turkey",
+                "Eagle",
+                "Hat-trick"
+            ],
+            "correct_answer": "Turkey",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which cycling Grand Tour is held mainly in Italy?",
+            "answers": [
+                "Giro d'Italia",
+                "Vuelta a España",
+                "Tour de Suisse"
+            ],
+            "correct_answer": "Giro d'Italia",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the diameter of a standard basketball hoop in inches?",
+            "answers": [
+                "18",
+                "16",
+                "20"
+            ],
+            "correct_answer": "18",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which country won the men's Rugby World Cup in 1995?",
+            "answers": [
+                "South Africa",
+                "New Zealand",
+                "Australia"
+            ],
+            "correct_answer": "South Africa",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which combat sport uses the terms ippon and waza-ari?",
+            "answers": [
+                "Judo",
+                "Boxing",
+                "Fencing"
+            ],
+            "correct_answer": "Judo",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which country hosted the first modern Olympic Games in 1896?",
+            "answers": [
+                "Greece",
+                "France",
+                "United Kingdom"
+            ],
+            "correct_answer": "Greece",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who was the first person to run a mile in under four minutes?",
+            "answers": [
+                "Roger Bannister",
+                "Sebastian Coe",
+                "Steve Ovett"
+            ],
+            "correct_answer": "Roger Bannister",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "In golf, what is the term for three strokes under par on a single hole?",
+            "answers": [
+                "Albatross",
+                "Eagle",
+                "Birdie"
+            ],
+            "correct_answer": "Albatross",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which trophy is awarded to the winner of the men's singles at Wimbledon?",
+            "answers": [
+                "Gentlemen's Singles Trophy",
+                "Davis Cup",
+                "Laver Cup"
+            ],
+            "correct_answer": "Gentlemen's Singles Trophy",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "In Formula One, what does DRS stand for?",
+            "answers": [
+                "Drag Reduction System",
+                "Driver Response System",
+                "Dynamic Racing Setup"
+            ],
+            "correct_answer": "Drag Reduction System",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which tennis player completed a calendar-year Golden Slam in 1988?",
+            "answers": [
+                "Steffi Graf",
+                "Martina Navratilova",
+                "Serena Williams"
+            ],
+            "correct_answer": "Steffi Graf",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "In snooker, how many points is the pink ball worth?",
+            "answers": [
+                "6",
+                "5",
+                "7"
+            ],
+            "correct_answer": "6",
+            "category": "Sport",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the maximum number of clubs a golfer may carry during a round under the standard Rules of Golf?",
+            "answers": [
+                "14",
+                "12",
+                "16"
+            ],
+            "correct_answer": "14",
+            "category": "Sport",
+            "difficulty": "Hard"
+        }
+    ],
+    "Music": [
+        {
+            "text": "How many strings does a standard guitar usually have?",
+            "answers": [
+                "4",
+                "6",
+                "8"
+            ],
+            "correct_answer": "6",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which instrument has black and white keys?",
+            "answers": [
+                "Violin",
+                "Piano",
+                "Trumpet"
+            ],
+            "correct_answer": "Piano",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which band released the song 'Bohemian Rhapsody'?",
+            "answers": [
+                "Queen",
+                "The Beatles",
+                "ABBA"
+            ],
+            "correct_answer": "Queen",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which instrument is usually played using drumsticks?",
+            "answers": [
+                "Drums",
+                "Piano",
+                "Flute"
+            ],
+            "correct_answer": "Drums",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which singer was known as the King of Pop?",
+            "answers": [
+                "Michael Jackson",
+                "Elvis Presley",
+                "Freddie Mercury"
+            ],
+            "correct_answer": "Michael Jackson",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which singer released the song 'Shape of You'?",
+            "answers": [
+                "Ed Sheeran",
+                "Bruno Mars",
+                "Sam Smith"
+            ],
+            "correct_answer": "Ed Sheeran",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which instrument is commonly associated with a bow and four strings?",
+            "answers": [
+                "Violin",
+                "Trumpet",
+                "Clarinet"
+            ],
+            "correct_answer": "Violin",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which British band featured Freddie Mercury as lead singer?",
+            "answers": [
+                "Queen",
+                "Oasis",
+                "Coldplay"
+            ],
+            "correct_answer": "Queen",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What do singers use to amplify their voice on stage?",
+            "answers": [
+                "Microphone",
+                "Metronome",
+                "Tuner"
+            ],
+            "correct_answer": "Microphone",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which singer is known for the album '21'?",
+            "answers": [
+                "Adele",
+                "Rihanna",
+                "Beyoncé"
+            ],
+            "correct_answer": "Adele",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which band recorded 'Hey Jude'?",
+            "answers": [
+                "The Beatles",
+                "ABBA",
+                "Fleetwood Mac"
+            ],
+            "correct_answer": "The Beatles",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which instrument is usually associated with 88 keys?",
+            "answers": [
+                "Piano",
+                "Guitar",
+                "Saxophone"
+            ],
+            "correct_answer": "Piano",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is a person who writes music called?",
+            "answers": [
+                "Composer",
+                "Producer",
+                "Conductor"
+            ],
+            "correct_answer": "Composer",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which singer performed 'Rolling in the Deep'?",
+            "answers": [
+                "Adele",
+                "Katy Perry",
+                "Pink"
+            ],
+            "correct_answer": "Adele",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which artist released the album 'Thriller'?",
+            "answers": [
+                "Michael Jackson",
+                "Prince",
+                "David Bowie"
+            ],
+            "correct_answer": "Michael Jackson",
+            "category": "Music",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the name for the speed or pace of a piece of music?",
+            "answers": [
+                "Tempo",
+                "Pitch",
+                "Harmony"
+            ],
+            "correct_answer": "Tempo",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which family of instruments does the trumpet belong to?",
+            "answers": [
+                "String",
+                "Brass",
+                "Woodwind"
+            ],
+            "correct_answer": "Brass",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which musical symbol raises a note by one semitone?",
+            "answers": [
+                "Sharp",
+                "Flat",
+                "Rest"
+            ],
+            "correct_answer": "Sharp",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which band featured John Lennon, Paul McCartney, George Harrison and Ringo Starr?",
+            "answers": [
+                "The Beatles",
+                "The Rolling Stones",
+                "The Who"
+            ],
+            "correct_answer": "The Beatles",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is a group of three notes played together usually called?",
+            "answers": [
+                "Chord",
+                "Scale",
+                "Beat"
+            ],
+            "correct_answer": "Chord",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which musical term means gradually becoming louder?",
+            "answers": [
+                "Crescendo",
+                "Diminuendo",
+                "Staccato"
+            ],
+            "correct_answer": "Crescendo",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which composer continued to compose music after becoming largely deaf?",
+            "answers": [
+                "Ludwig van Beethoven",
+                "Franz Schubert",
+                "Antonio Vivaldi"
+            ],
+            "correct_answer": "Ludwig van Beethoven",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which instrument belongs to the woodwind family?",
+            "answers": [
+                "Clarinet",
+                "Trombone",
+                "Cello"
+            ],
+            "correct_answer": "Clarinet",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the lowest standard male singing voice?",
+            "answers": [
+                "Bass",
+                "Tenor",
+                "Alto"
+            ],
+            "correct_answer": "Bass",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which band released the album 'Rumours'?",
+            "answers": [
+                "Fleetwood Mac",
+                "The Police",
+                "Genesis"
+            ],
+            "correct_answer": "Fleetwood Mac",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What does BPM stand for in music?",
+            "answers": [
+                "Beats Per Minute",
+                "Bars Per Melody",
+                "Bass Pitch Measure"
+            ],
+            "correct_answer": "Beats Per Minute",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which singer fronted the band Nirvana?",
+            "answers": [
+                "Kurt Cobain",
+                "Dave Grohl",
+                "Eddie Vedder"
+            ],
+            "correct_answer": "Kurt Cobain",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which instrument is Yo-Yo Ma famous for playing?",
+            "answers": [
+                "Cello",
+                "Violin",
+                "Piano"
+            ],
+            "correct_answer": "Cello",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which artist released the album 'Purple Rain'?",
+            "answers": [
+                "Prince",
+                "George Michael",
+                "Lionel Richie"
+            ],
+            "correct_answer": "Prince",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which musical term means to play softly?",
+            "answers": [
+                "Piano",
+                "Forte",
+                "Allegro"
+            ],
+            "correct_answer": "Piano",
+            "category": "Music",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which composer wrote The Four Seasons?",
+            "answers": [
+                "Antonio Vivaldi",
+                "Johann Sebastian Bach",
+                "Wolfgang Amadeus Mozart"
+            ],
+            "correct_answer": "Antonio Vivaldi",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "How many semitones are there in a standard musical octave?",
+            "answers": [
+                "12",
+                "8",
+                "10"
+            ],
+            "correct_answer": "12",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the relative minor key of C major?",
+            "answers": [
+                "A minor",
+                "E minor",
+                "D minor"
+            ],
+            "correct_answer": "A minor",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which composer wrote the opera 'Carmen'?",
+            "answers": [
+                "Georges Bizet",
+                "Giacomo Puccini",
+                "Gioachino Rossini"
+            ],
+            "correct_answer": "Georges Bizet",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which musical interval spans exactly six semitones?",
+            "answers": [
+                "Tritone",
+                "Perfect fifth",
+                "Major third"
+            ],
+            "correct_answer": "Tritone",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which composer wrote the opera 'The Magic Flute'?",
+            "answers": [
+                "Wolfgang Amadeus Mozart",
+                "Giuseppe Verdi",
+                "Richard Wagner"
+            ],
+            "correct_answer": "Wolfgang Amadeus Mozart",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the enharmonic equivalent of C-sharp?",
+            "answers": [
+                "D-flat",
+                "B-flat",
+                "E-flat"
+            ],
+            "correct_answer": "D-flat",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which jazz musician was nicknamed 'Satchmo'?",
+            "answers": [
+                "Louis Armstrong",
+                "Miles Davis",
+                "Duke Ellington"
+            ],
+            "correct_answer": "Louis Armstrong",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which Beatles album contains the song 'Come Together'?",
+            "answers": [
+                "Abbey Road",
+                "Revolver",
+                "Help!"
+            ],
+            "correct_answer": "Abbey Road",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the term for a composition written for a solo instrument accompanied by an orchestra?",
+            "answers": [
+                "Concerto",
+                "Fugue",
+                "Cantata"
+            ],
+            "correct_answer": "Concerto",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which composer wrote 'Clair de Lune'?",
+            "answers": [
+                "Claude Debussy",
+                "Maurice Ravel",
+                "Erik Satie"
+            ],
+            "correct_answer": "Claude Debussy",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which key signature has one sharp?",
+            "answers": [
+                "G major",
+                "D major",
+                "F major"
+            ],
+            "correct_answer": "G major",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who composed the ballet 'Swan Lake'?",
+            "answers": [
+                "Pyotr Ilyich Tchaikovsky",
+                "Igor Stravinsky",
+                "Sergei Prokofiev"
+            ],
+            "correct_answer": "Pyotr Ilyich Tchaikovsky",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which singer's backing band was called The Revolution?",
+            "answers": [
+                "Prince",
+                "David Bowie",
+                "Elton John"
+            ],
+            "correct_answer": "Prince",
+            "category": "Music",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the Italian musical term meaning 'very fast'?",
+            "answers": [
+                "Presto",
+                "Adagio",
+                "Largo"
+            ],
+            "correct_answer": "Presto",
+            "category": "Music",
+            "difficulty": "Hard"
+        }
+    ],
+    "General Knowledge": [
+        {
+            "text": "What is the capital city of France?",
+            "answers": [
+                "Paris",
+                "Rome",
+                "Madrid"
+            ],
+            "correct_answer": "Paris",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many days are there in a leap year?",
+            "answers": [
+                "366",
+                "365",
+                "364"
+            ],
+            "correct_answer": "366",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which planet is known as the Red Planet?",
+            "answers": [
+                "Mars",
+                "Venus",
+                "Jupiter"
+            ],
+            "correct_answer": "Mars",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the largest ocean on Earth?",
+            "answers": [
+                "Pacific Ocean",
+                "Atlantic Ocean",
+                "Indian Ocean"
+            ],
+            "correct_answer": "Pacific Ocean",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many sides does a hexagon have?",
+            "answers": [
+                "6",
+                "5",
+                "8"
+            ],
+            "correct_answer": "6",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the largest land animal?",
+            "answers": [
+                "African elephant",
+                "Giraffe",
+                "Hippopotamus"
+            ],
+            "correct_answer": "African elephant",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many continents are there?",
+            "answers": [
+                "7",
+                "6",
+                "8"
+            ],
+            "correct_answer": "7",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which language is primarily spoken in Brazil?",
+            "answers": [
+                "Portuguese",
+                "Spanish",
+                "French"
+            ],
+            "correct_answer": "Portuguese",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the capital of Italy?",
+            "answers": [
+                "Rome",
+                "Milan",
+                "Venice"
+            ],
+            "correct_answer": "Rome",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which metal is liquid at room temperature?",
+            "answers": [
+                "Mercury",
+                "Iron",
+                "Aluminium"
+            ],
+            "correct_answer": "Mercury",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which is the largest planet in the Solar System?",
+            "answers": [
+                "Jupiter",
+                "Saturn",
+                "Neptune"
+            ],
+            "correct_answer": "Jupiter",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the name of the line at 0 degrees latitude?",
+            "answers": [
+                "Equator",
+                "Prime Meridian",
+                "Tropic of Cancer"
+            ],
+            "correct_answer": "Equator",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many players are there in a standard chess game?",
+            "answers": [
+                "2",
+                "4",
+                "6"
+            ],
+            "correct_answer": "2",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the hardest natural substance?",
+            "answers": [
+                "Diamond",
+                "Quartz",
+                "Granite"
+            ],
+            "correct_answer": "Diamond",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which ocean lies between Africa and Australia?",
+            "answers": [
+                "Indian Ocean",
+                "Atlantic Ocean",
+                "Arctic Ocean"
+            ],
+            "correct_answer": "Indian Ocean",
+            "category": "General Knowledge",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which element has the chemical symbol Au?",
+            "answers": [
+                "Gold",
+                "Silver",
+                "Copper"
+            ],
+            "correct_answer": "Gold",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country gifted the Statue of Liberty to the United States?",
+            "answers": [
+                "France",
+                "Spain",
+                "Italy"
+            ],
+            "correct_answer": "France",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the largest organ in the human body?",
+            "answers": [
+                "Skin",
+                "Liver",
+                "Lungs"
+            ],
+            "correct_answer": "Skin",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which ancient civilisation built Machu Picchu?",
+            "answers": [
+                "Inca",
+                "Aztec",
+                "Maya"
+            ],
+            "correct_answer": "Inca",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the currency of Japan?",
+            "answers": [
+                "Yen",
+                "Won",
+                "Yuan"
+            ],
+            "correct_answer": "Yen",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the smallest country in the world by area?",
+            "answers": [
+                "Vatican City",
+                "Monaco",
+                "San Marino"
+            ],
+            "correct_answer": "Vatican City",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the longest bone in the human body?",
+            "answers": [
+                "Femur",
+                "Tibia",
+                "Humerus"
+            ],
+            "correct_answer": "Femur",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which treaty formally ended World War I between Germany and the Allied Powers?",
+            "answers": [
+                "Treaty of Versailles",
+                "Treaty of Paris",
+                "Treaty of Utrecht"
+            ],
+            "correct_answer": "Treaty of Versailles",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which gas makes up the largest percentage of Earth's atmosphere?",
+            "answers": [
+                "Nitrogen",
+                "Oxygen",
+                "Carbon Dioxide"
+            ],
+            "correct_answer": "Nitrogen",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which blood type is commonly called the universal red-cell donor?",
+            "answers": [
+                "O negative",
+                "AB positive",
+                "A positive"
+            ],
+            "correct_answer": "O negative",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country is home to the city of Marrakech?",
+            "answers": [
+                "Morocco",
+                "Egypt",
+                "Turkey"
+            ],
+            "correct_answer": "Morocco",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the main ingredient in traditional hummus?",
+            "answers": [
+                "Chickpeas",
+                "Lentils",
+                "Potatoes"
+            ],
+            "correct_answer": "Chickpeas",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which Roman numeral represents 50?",
+            "answers": [
+                "L",
+                "C",
+                "X"
+            ],
+            "correct_answer": "L",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which city was formerly known as Constantinople?",
+            "answers": [
+                "Istanbul",
+                "Athens",
+                "Cairo"
+            ],
+            "correct_answer": "Istanbul",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which mathematician is associated with the theorem about right-angled triangles bearing his name?",
+            "answers": [
+                "Pythagoras",
+                "Euclid",
+                "Archimedes"
+            ],
+            "correct_answer": "Pythagoras",
+            "category": "General Knowledge",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which scientist formulated the three laws of planetary motion?",
+            "answers": [
+                "Johannes Kepler",
+                "Galileo Galilei",
+                "Isaac Newton"
+            ],
+            "correct_answer": "Johannes Kepler",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who wrote the novel 'One Hundred Years of Solitude'?",
+            "answers": [
+                "Gabriel García Márquez",
+                "Jorge Luis Borges",
+                "Pablo Neruda"
+            ],
+            "correct_answer": "Gabriel García Márquez",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which Roman numeral represents 500?",
+            "answers": [
+                "D",
+                "L",
+                "M"
+            ],
+            "correct_answer": "D",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who painted 'The Garden of Earthly Delights'?",
+            "answers": [
+                "Hieronymus Bosch",
+                "El Greco",
+                "Caravaggio"
+            ],
+            "correct_answer": "Hieronymus Bosch",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the smallest prime number greater than 100?",
+            "answers": [
+                "101",
+                "103",
+                "107"
+            ],
+            "correct_answer": "101",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which element has the chemical symbol W?",
+            "answers": [
+                "Tungsten",
+                "Tin",
+                "Tantalum"
+            ],
+            "correct_answer": "Tungsten",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which instrument measures atmospheric pressure?",
+            "answers": [
+                "Barometer",
+                "Thermometer",
+                "Altimeter"
+            ],
+            "correct_answer": "Barometer",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the world's largest desert by area?",
+            "answers": [
+                "Antarctic Desert",
+                "Sahara Desert",
+                "Gobi Desert"
+            ],
+            "correct_answer": "Antarctic Desert",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which element has atomic number 26?",
+            "answers": [
+                "Iron",
+                "Copper",
+                "Zinc"
+            ],
+            "correct_answer": "Iron",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who painted 'The Arnolfini Portrait'?",
+            "answers": [
+                "Jan van Eyck",
+                "Rembrandt",
+                "Johannes Vermeer"
+            ],
+            "correct_answer": "Jan van Eyck",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which language has the most native speakers worldwide?",
+            "answers": [
+                "Mandarin Chinese",
+                "English",
+                "Spanish"
+            ],
+            "correct_answer": "Mandarin Chinese",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the SI unit of electric resistance?",
+            "answers": [
+                "Ohm",
+                "Watt",
+                "Volt"
+            ],
+            "correct_answer": "Ohm",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the deepest known point in Earth's oceans?",
+            "answers": [
+                "Challenger Deep",
+                "Java Trench",
+                "Puerto Rico Deep"
+            ],
+            "correct_answer": "Challenger Deep",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which philosopher wrote 'The Republic'?",
+            "answers": [
+                "Plato",
+                "Aristotle",
+                "Socrates"
+            ],
+            "correct_answer": "Plato",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which organelle is often called the powerhouse of the cell?",
+            "answers": [
+                "Mitochondrion",
+                "Ribosome",
+                "Golgi apparatus"
+            ],
+            "correct_answer": "Mitochondrion",
+            "category": "General Knowledge",
+            "difficulty": "Hard"
+        }
+    ],
+    "Film & TV": [
+        {
+            "text": "Which film series features the character Harry Potter?",
+            "answers": [
+                "Harry Potter",
+                "The Hunger Games",
+                "Twilight"
+            ],
+            "correct_answer": "Harry Potter",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What colour is Shrek?",
+            "answers": [
+                "Green",
+                "Blue",
+                "Purple"
+            ],
+            "correct_answer": "Green",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which superhero is also known as Bruce Wayne?",
+            "answers": [
+                "Batman",
+                "Superman",
+                "Iron Man"
+            ],
+            "correct_answer": "Batman",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which animated film features a snowman named Olaf?",
+            "answers": [
+                "Frozen",
+                "Moana",
+                "Encanto"
+            ],
+            "correct_answer": "Frozen",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the name of the cowboy toy in Toy Story?",
+            "answers": [
+                "Woody",
+                "Buzz",
+                "Rex"
+            ],
+            "correct_answer": "Woody",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which actor played Jack Dawson in Titanic?",
+            "answers": [
+                "Leonardo DiCaprio",
+                "Brad Pitt",
+                "Matt Damon"
+            ],
+            "correct_answer": "Leonardo DiCaprio",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which film features the fictional theme park Jurassic Park?",
+            "answers": [
+                "Jurassic Park",
+                "King Kong",
+                "Jumanji"
+            ],
+            "correct_answer": "Jurassic Park",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Who played the title character in the 2008 film Iron Man?",
+            "answers": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Chris Hemsworth"
+            ],
+            "correct_answer": "Robert Downey Jr.",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which film features a lion cub named Simba?",
+            "answers": [
+                "The Lion King",
+                "Madagascar",
+                "Finding Nemo"
+            ],
+            "correct_answer": "The Lion King",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Who lives in a pineapple under the sea?",
+            "answers": [
+                "SpongeBob SquarePants",
+                "Patrick Star",
+                "Squidward"
+            ],
+            "correct_answer": "SpongeBob SquarePants",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which superhero carries a shield with a star on it?",
+            "answers": [
+                "Captain America",
+                "Thor",
+                "Hulk"
+            ],
+            "correct_answer": "Captain America",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which film series features a character named Darth Vader?",
+            "answers": [
+                "Star Wars",
+                "Star Trek",
+                "The Matrix"
+            ],
+            "correct_answer": "Star Wars",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What type of animal is Paddington?",
+            "answers": [
+                "Bear",
+                "Rabbit",
+                "Fox"
+            ],
+            "correct_answer": "Bear",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which animated film features a clownfish named Nemo?",
+            "answers": [
+                "Finding Nemo",
+                "Shark Tale",
+                "The Little Mermaid"
+            ],
+            "correct_answer": "Finding Nemo",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which TV show features the characters Homer, Marge, Bart, Lisa and Maggie?",
+            "answers": [
+                "The Simpsons",
+                "Family Guy",
+                "Futurama"
+            ],
+            "correct_answer": "The Simpsons",
+            "category": "Film & TV",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What fictional continent is the main setting of Game of Thrones?",
+            "answers": [
+                "Westeros",
+                "Narnia",
+                "Middle-earth"
+            ],
+            "correct_answer": "Westeros",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In Friends, what is the name of Ross Geller's sister?",
+            "answers": [
+                "Monica",
+                "Rachel",
+                "Phoebe"
+            ],
+            "correct_answer": "Monica",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Who directed the 1975 film Jaws?",
+            "answers": [
+                "Steven Spielberg",
+                "George Lucas",
+                "Francis Ford Coppola"
+            ],
+            "correct_answer": "Steven Spielberg",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which television series is set primarily in the fictional town of Hawkins, Indiana?",
+            "answers": [
+                "Stranger Things",
+                "Twin Peaks",
+                "Dark"
+            ],
+            "correct_answer": "Stranger Things",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What was the first feature-length animated film released by Disney?",
+            "answers": [
+                "Snow White and the Seven Dwarfs",
+                "Pinocchio",
+                "Fantasia"
+            ],
+            "correct_answer": "Snow White and the Seven Dwarfs",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which actor played Mr Bean?",
+            "answers": [
+                "Rowan Atkinson",
+                "Ricky Gervais",
+                "Hugh Laurie"
+            ],
+            "correct_answer": "Rowan Atkinson",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which Disney princess has a glass slipper?",
+            "answers": [
+                "Cinderella",
+                "Ariel",
+                "Belle"
+            ],
+            "correct_answer": "Cinderella",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which film features the character Indiana Jones?",
+            "answers": [
+                "Raiders of the Lost Ark",
+                "Rocky",
+                "Top Gun"
+            ],
+            "correct_answer": "Raiders of the Lost Ark",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Who directed 'Pulp Fiction'?",
+            "answers": [
+                "Quentin Tarantino",
+                "Martin Scorsese",
+                "Ridley Scott"
+            ],
+            "correct_answer": "Quentin Tarantino",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which TV series features the character Walter White?",
+            "answers": [
+                "Breaking Bad",
+                "The Wire",
+                "Dexter"
+            ],
+            "correct_answer": "Breaking Bad",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In The Lord of the Rings, what is the name of Frodo's home region?",
+            "answers": [
+                "The Shire",
+                "Mordor",
+                "Rohan"
+            ],
+            "correct_answer": "The Shire",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which actor played the Joker in 'The Dark Knight'?",
+            "answers": [
+                "Heath Ledger",
+                "Joaquin Phoenix",
+                "Jack Nicholson"
+            ],
+            "correct_answer": "Heath Ledger",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the fictional African nation in 'Black Panther'?",
+            "answers": [
+                "Wakanda",
+                "Genovia",
+                "Zamunda"
+            ],
+            "correct_answer": "Wakanda",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which sitcom is set around the Dunder Mifflin paper company?",
+            "answers": [
+                "The Office",
+                "Parks and Recreation",
+                "Brooklyn Nine-Nine"
+            ],
+            "correct_answer": "The Office",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the surname of the family at the centre of the TV series 'Succession'?",
+            "answers": [
+                "Roy",
+                "Pearson",
+                "Soprano"
+            ],
+            "correct_answer": "Roy",
+            "category": "Film & TV",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the name of the computer in 2001: A Space Odyssey?",
+            "answers": [
+                "HAL 9000",
+                "Deep Thought",
+                "Skynet"
+            ],
+            "correct_answer": "HAL 9000",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which actor played Travis Bickle in Taxi Driver?",
+            "answers": [
+                "Robert De Niro",
+                "Al Pacino",
+                "Dustin Hoffman"
+            ],
+            "correct_answer": "Robert De Niro",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the pub in the British sitcom 'Only Fools and Horses'?",
+            "answers": [
+                "The Nag's Head",
+                "The Queen Vic",
+                "The Woolpack"
+            ],
+            "correct_answer": "The Nag's Head",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which film won the first Academy Award for Best Animated Feature?",
+            "answers": [
+                "Shrek",
+                "Toy Story",
+                "Spirited Away"
+            ],
+            "correct_answer": "Shrek",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which actor played the Eleventh Doctor in Doctor Who?",
+            "answers": [
+                "Matt Smith",
+                "David Tennant",
+                "Peter Capaldi"
+            ],
+            "correct_answer": "Matt Smith",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which director made 'Alien', 'Blade Runner' and 'Gladiator'?",
+            "answers": [
+                "Ridley Scott",
+                "James Cameron",
+                "Christopher Nolan"
+            ],
+            "correct_answer": "Ridley Scott",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which film won the Academy Award for Best Picture at the first Academy Awards ceremony?",
+            "answers": [
+                "Wings",
+                "Sunrise",
+                "The Jazz Singer"
+            ],
+            "correct_answer": "Wings",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who composed the score for 'The Good, the Bad and the Ugly'?",
+            "answers": [
+                "Ennio Morricone",
+                "John Williams",
+                "Nino Rota"
+            ],
+            "correct_answer": "Ennio Morricone",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the fictional advertising agency at the start of 'Mad Men'?",
+            "answers": [
+                "Sterling Cooper",
+                "Dunder Mifflin",
+                "Waystar Royco"
+            ],
+            "correct_answer": "Sterling Cooper",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which actress played Clarice Starling in 'The Silence of the Lambs'?",
+            "answers": [
+                "Jodie Foster",
+                "Sigourney Weaver",
+                "Glenn Close"
+            ],
+            "correct_answer": "Jodie Foster",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which 1927 film is widely associated with the transition to talking pictures?",
+            "answers": [
+                "The Jazz Singer",
+                "Metropolis",
+                "Nosferatu"
+            ],
+            "correct_answer": "The Jazz Singer",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who created the television series 'The Sopranos'?",
+            "answers": [
+                "David Chase",
+                "David Simon",
+                "Vince Gilligan"
+            ],
+            "correct_answer": "David Chase",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which Akira Kurosawa film inspired the western 'The Magnificent Seven'?",
+            "answers": [
+                "Seven Samurai",
+                "Rashomon",
+                "Yojimbo"
+            ],
+            "correct_answer": "Seven Samurai",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which actor played T. E. Lawrence in the 1962 film 'Lawrence of Arabia'?",
+            "answers": [
+                "Peter O'Toole",
+                "Richard Burton",
+                "Alec Guinness"
+            ],
+            "correct_answer": "Peter O'Toole",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which director made the 1958 film 'Vertigo'?",
+            "answers": [
+                "Alfred Hitchcock",
+                "Billy Wilder",
+                "Orson Welles"
+            ],
+            "correct_answer": "Alfred Hitchcock",
+            "category": "Film & TV",
+            "difficulty": "Hard"
+        }
+    ],
+    "Science & Nature": [
+        {
+            "text": "What gas do humans need to breathe to survive?",
+            "answers": [
+                "Oxygen",
+                "Nitrogen",
+                "Helium"
+            ],
+            "correct_answer": "Oxygen",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the closest star to Earth?",
+            "answers": [
+                "The Sun",
+                "Sirius",
+                "Proxima Centauri"
+            ],
+            "correct_answer": "The Sun",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "How many legs does an insect have?",
+            "answers": [
+                "6",
+                "8",
+                "10"
+            ],
+            "correct_answer": "6",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What force pulls objects toward Earth?",
+            "answers": [
+                "Gravity",
+                "Magnetism",
+                "Friction"
+            ],
+            "correct_answer": "Gravity",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which organ pumps blood around the human body?",
+            "answers": [
+                "Heart",
+                "Liver",
+                "Kidney"
+            ],
+            "correct_answer": "Heart",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is H2O commonly called?",
+            "answers": [
+                "Water",
+                "Salt",
+                "Oxygen"
+            ],
+            "correct_answer": "Water",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which planet is famous for its prominent rings?",
+            "answers": [
+                "Saturn",
+                "Mars",
+                "Mercury"
+            ],
+            "correct_answer": "Saturn",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What type of animal is a frog?",
+            "answers": [
+                "Amphibian",
+                "Reptile",
+                "Mammal"
+            ],
+            "correct_answer": "Amphibian",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which part of a plant usually absorbs water from the soil?",
+            "answers": [
+                "Roots",
+                "Flowers",
+                "Fruit"
+            ],
+            "correct_answer": "Roots",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the largest mammal on Earth?",
+            "answers": [
+                "Blue whale",
+                "African elephant",
+                "Giraffe"
+            ],
+            "correct_answer": "Blue whale",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What do caterpillars develop into?",
+            "answers": [
+                "Butterflies or moths",
+                "Beetles",
+                "Dragonflies"
+            ],
+            "correct_answer": "Butterflies or moths",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which planet is closest to the Sun?",
+            "answers": [
+                "Mercury",
+                "Venus",
+                "Earth"
+            ],
+            "correct_answer": "Mercury",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the process by which plants use light to make food?",
+            "answers": [
+                "Photosynthesis",
+                "Respiration",
+                "Fermentation"
+            ],
+            "correct_answer": "Photosynthesis",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which substance do bees collect from flowers to help make honey?",
+            "answers": [
+                "Nectar",
+                "Sap",
+                "Dew"
+            ],
+            "correct_answer": "Nectar",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which scientist is associated with the theory of evolution by natural selection?",
+            "answers": [
+                "Charles Darwin",
+                "Louis Pasteur",
+                "Gregor Mendel"
+            ],
+            "correct_answer": "Charles Darwin",
+            "category": "Science & Nature",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which blood cells help fight infection?",
+            "answers": [
+                "White blood cells",
+                "Red blood cells",
+                "Platelets"
+            ],
+            "correct_answer": "White blood cells",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the chemical symbol for sodium?",
+            "answers": [
+                "Na",
+                "S",
+                "So"
+            ],
+            "correct_answer": "Na",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which organ filters waste products from the blood to produce urine?",
+            "answers": [
+                "Kidney",
+                "Pancreas",
+                "Spleen"
+            ],
+            "correct_answer": "Kidney",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the largest planet in the Solar System?",
+            "answers": [
+                "Jupiter",
+                "Saturn",
+                "Neptune"
+            ],
+            "correct_answer": "Jupiter",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which type of rock forms when molten rock cools and solidifies?",
+            "answers": [
+                "Igneous",
+                "Sedimentary",
+                "Metamorphic"
+            ],
+            "correct_answer": "Igneous",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the basic unit of heredity?",
+            "answers": [
+                "Gene",
+                "Cell",
+                "Protein"
+            ],
+            "correct_answer": "Gene",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which gas is most abundant in Earth's atmosphere?",
+            "answers": [
+                "Nitrogen",
+                "Oxygen",
+                "Argon"
+            ],
+            "correct_answer": "Nitrogen",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the pH of pure water at about room temperature?",
+            "answers": [
+                "7",
+                "5",
+                "9"
+            ],
+            "correct_answer": "7",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which part of the eye controls how much light enters?",
+            "answers": [
+                "Iris",
+                "Retina",
+                "Cornea"
+            ],
+            "correct_answer": "Iris",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What type of energy is stored in food?",
+            "answers": [
+                "Chemical energy",
+                "Sound energy",
+                "Nuclear energy"
+            ],
+            "correct_answer": "Chemical energy",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the name for animals that are active mainly at night?",
+            "answers": [
+                "Nocturnal",
+                "Diurnal",
+                "Aquatic"
+            ],
+            "correct_answer": "Nocturnal",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which layer of Earth lies directly beneath the crust?",
+            "answers": [
+                "Mantle",
+                "Outer core",
+                "Inner core"
+            ],
+            "correct_answer": "Mantle",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which vitamin is produced in human skin in response to sunlight?",
+            "answers": [
+                "Vitamin D",
+                "Vitamin C",
+                "Vitamin B12"
+            ],
+            "correct_answer": "Vitamin D",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which structure in a cell contains most of its genetic material?",
+            "answers": [
+                "Nucleus",
+                "Golgi apparatus",
+                "Lysosome"
+            ],
+            "correct_answer": "Nucleus",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which scientist discovered penicillin in 1928?",
+            "answers": [
+                "Alexander Fleming",
+                "Robert Koch",
+                "Joseph Lister"
+            ],
+            "correct_answer": "Alexander Fleming",
+            "category": "Science & Nature",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the unit of electrical current?",
+            "answers": [
+                "Ampere",
+                "Volt",
+                "Ohm"
+            ],
+            "correct_answer": "Ampere",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What type of bond involves the sharing of electron pairs between atoms?",
+            "answers": [
+                "Covalent bond",
+                "Ionic bond",
+                "Metallic bond"
+            ],
+            "correct_answer": "Covalent bond",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the most abundant element in the universe?",
+            "answers": [
+                "Hydrogen",
+                "Helium",
+                "Oxygen"
+            ],
+            "correct_answer": "Hydrogen",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which particle has the same magnitude of charge as an electron but a positive charge?",
+            "answers": [
+                "Proton",
+                "Neutron",
+                "Photon"
+            ],
+            "correct_answer": "Proton",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+            "answers": [
+                "Event horizon",
+                "Accretion disk",
+                "Singularity"
+            ],
+            "correct_answer": "Event horizon",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which branch of biology studies fungi?",
+            "answers": [
+                "Mycology",
+                "Entomology",
+                "Botany"
+            ],
+            "correct_answer": "Mycology",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is Avogadro's constant approximately equal to?",
+            "answers": [
+                "6.022 × 10^23",
+                "9.81 × 10^2",
+                "3.00 × 10^8"
+            ],
+            "correct_answer": "6.022 × 10^23",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the SI unit of magnetic flux?",
+            "answers": [
+                "Weber",
+                "Tesla",
+                "Henry"
+            ],
+            "correct_answer": "Weber",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the process in which a solid changes directly into a gas?",
+            "answers": [
+                "Sublimation",
+                "Condensation",
+                "Deposition"
+            ],
+            "correct_answer": "Sublimation",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which planet has the shortest day in the Solar System?",
+            "answers": [
+                "Jupiter",
+                "Earth",
+                "Mars"
+            ],
+            "correct_answer": "Jupiter",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which particle carries the electromagnetic force in the Standard Model?",
+            "answers": [
+                "Photon",
+                "Gluon",
+                "Neutrino"
+            ],
+            "correct_answer": "Photon",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which biological molecule carries amino acids to the ribosome during protein synthesis?",
+            "answers": [
+                "tRNA",
+                "DNA",
+                "mRNA"
+            ],
+            "correct_answer": "tRNA",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which gas law states that pressure is inversely proportional to volume at constant temperature?",
+            "answers": [
+                "Boyle's law",
+                "Charles's law",
+                "Avogadro's law"
+            ],
+            "correct_answer": "Boyle's law",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which scale is used to measure mineral hardness?",
+            "answers": [
+                "Mohs scale",
+                "Richter scale",
+                "Beaufort scale"
+            ],
+            "correct_answer": "Mohs scale",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the process by which one species splits into two or more distinct species?",
+            "answers": [
+                "Speciation",
+                "Mutation",
+                "Succession"
+            ],
+            "correct_answer": "Speciation",
+            "category": "Science & Nature",
+            "difficulty": "Hard"
+        }
+    ],
+    "History": [
+        {
+            "text": "Which ancient civilisation built the pyramids at Giza?",
+            "answers": [
+                "Ancient Egyptians",
+                "Romans",
+                "Vikings"
+            ],
+            "correct_answer": "Ancient Egyptians",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Who was the first person to walk on the Moon?",
+            "answers": [
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "Yuri Gagarin"
+            ],
+            "correct_answer": "Neil Armstrong",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which city was buried by the eruption of Mount Vesuvius in AD 79?",
+            "answers": [
+                "Pompeii",
+                "Athens",
+                "Sparta"
+            ],
+            "correct_answer": "Pompeii",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Who was Queen of the United Kingdom for most of the Victorian era?",
+            "answers": [
+                "Queen Victoria",
+                "Queen Anne",
+                "Queen Mary"
+            ],
+            "correct_answer": "Queen Victoria",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which ancient civilisation was Julius Caesar a leader of?",
+            "answers": [
+                "Roman",
+                "Ottoman",
+                "Mongol"
+            ],
+            "correct_answer": "Roman",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which ship famously sank on its maiden voyage in 1912?",
+            "answers": [
+                "Titanic",
+                "Lusitania",
+                "Bismarck"
+            ],
+            "correct_answer": "Titanic",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Who was the first president of the United States?",
+            "answers": [
+                "George Washington",
+                "Abraham Lincoln",
+                "Thomas Jefferson"
+            ],
+            "correct_answer": "George Washington",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which people are associated with longships and raids across medieval Europe?",
+            "answers": [
+                "Vikings",
+                "Aztecs",
+                "Spartans"
+            ],
+            "correct_answer": "Vikings",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which wall divided a major German city from 1961 to 1989?",
+            "answers": [
+                "Berlin Wall",
+                "Hadrian's Wall",
+                "Great Wall"
+            ],
+            "correct_answer": "Berlin Wall",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which ancient civilisation is associated with gladiators and the Colosseum?",
+            "answers": [
+                "Romans",
+                "Maya",
+                "Persians"
+            ],
+            "correct_answer": "Romans",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Who was the British prime minister for most of the Second World War?",
+            "answers": [
+                "Winston Churchill",
+                "Clement Attlee",
+                "Neville Chamberlain"
+            ],
+            "correct_answer": "Winston Churchill",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which civilisation built Machu Picchu?",
+            "answers": [
+                "Inca",
+                "Maya",
+                "Aztec"
+            ],
+            "correct_answer": "Inca",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which French leader became emperor in 1804?",
+            "answers": [
+                "Napoleon Bonaparte",
+                "Louis XIV",
+                "Charles de Gaulle"
+            ],
+            "correct_answer": "Napoleon Bonaparte",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which conflict was fought between the North and South regions of the United States from 1861 to 1865?",
+            "answers": [
+                "American Civil War",
+                "War of 1812",
+                "Spanish-American War"
+            ],
+            "correct_answer": "American Civil War",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which battle in 1815 ended Napoleon's rule during the Hundred Days?",
+            "answers": [
+                "Waterloo",
+                "Austerlitz",
+                "Trafalgar"
+            ],
+            "correct_answer": "Waterloo",
+            "category": "History",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which famous document was sealed by King John in 1215?",
+            "answers": [
+                "Magna Carta",
+                "Domesday Book",
+                "Bill of Rights"
+            ],
+            "correct_answer": "Magna Carta",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In what year did the Battle of Hastings take place?",
+            "answers": [
+                "1066",
+                "1215",
+                "1415"
+            ],
+            "correct_answer": "1066",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Who was the first Tudor monarch of England?",
+            "answers": [
+                "Henry VII",
+                "Henry VIII",
+                "Edward VI"
+            ],
+            "correct_answer": "Henry VII",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which event began with the storming of the Bastille in 1789?",
+            "answers": [
+                "French Revolution",
+                "Russian Revolution",
+                "Glorious Revolution"
+            ],
+            "correct_answer": "French Revolution",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which explorer's expedition completed the first circumnavigation of the globe?",
+            "answers": [
+                "Ferdinand Magellan's expedition",
+                "Christopher Columbus's expedition",
+                "James Cook's first voyage"
+            ],
+            "correct_answer": "Ferdinand Magellan's expedition",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which empire captured Constantinople in 1453?",
+            "answers": [
+                "Ottoman Empire",
+                "Roman Empire",
+                "Mongol Empire"
+            ],
+            "correct_answer": "Ottoman Empire",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Who issued the Emancipation Proclamation during the American Civil War?",
+            "answers": [
+                "Abraham Lincoln",
+                "Ulysses S. Grant",
+                "Andrew Johnson"
+            ],
+            "correct_answer": "Abraham Lincoln",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What was the name of the trade network linking China with the Mediterranean world?",
+            "answers": [
+                "Silk Road",
+                "Amber Road",
+                "Spice Route"
+            ],
+            "correct_answer": "Silk Road",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which British monarch was on the throne during the Spanish Armada of 1588?",
+            "answers": [
+                "Elizabeth I",
+                "Mary I",
+                "James I"
+            ],
+            "correct_answer": "Elizabeth I",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which ancient Greek city-state was famous for its highly militarised society?",
+            "answers": [
+                "Sparta",
+                "Corinth",
+                "Thebes"
+            ],
+            "correct_answer": "Sparta",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Who led the Soviet Union during most of the Second World War?",
+            "answers": [
+                "Joseph Stalin",
+                "Vladimir Lenin",
+                "Nikita Khrushchev"
+            ],
+            "correct_answer": "Joseph Stalin",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Who was the last ruler of the Ptolemaic Kingdom of Egypt?",
+            "answers": [
+                "Cleopatra VII",
+                "Nefertiti",
+                "Hatshepsut"
+            ],
+            "correct_answer": "Cleopatra VII",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which English king was killed at the Battle of Bosworth Field in 1485?",
+            "answers": [
+                "Richard III",
+                "Edward IV",
+                "Henry VI"
+            ],
+            "correct_answer": "Richard III",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What was the name of the series of religious wars launched from Western Europe toward the eastern Mediterranean beginning in 1096?",
+            "answers": [
+                "Crusades",
+                "Punic Wars",
+                "Wars of the Roses"
+            ],
+            "correct_answer": "Crusades",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which uprising over taxation and representation began in Britain's North American colonies in the 1770s?",
+            "answers": [
+                "American Revolution",
+                "Whiskey Rebellion",
+                "Bacon's Rebellion"
+            ],
+            "correct_answer": "American Revolution",
+            "category": "History",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which civilisation used a writing system known as cuneiform?",
+            "answers": [
+                "Sumerians",
+                "Romans",
+                "Vikings"
+            ],
+            "correct_answer": "Sumerians",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which dynasty ruled China when the Forbidden City was constructed?",
+            "answers": [
+                "Ming dynasty",
+                "Qing dynasty",
+                "Han dynasty"
+            ],
+            "correct_answer": "Ming dynasty",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which agreement ended the Thirty Years' War in 1648?",
+            "answers": [
+                "Peace of Westphalia",
+                "Treaty of Utrecht",
+                "Congress of Vienna"
+            ],
+            "correct_answer": "Peace of Westphalia",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which uprising in India began in 1857 against British East India Company rule?",
+            "answers": [
+                "Indian Rebellion of 1857",
+                "Boxer Rebellion",
+                "Taiping Rebellion"
+            ],
+            "correct_answer": "Indian Rebellion of 1857",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which civilisation developed a calendar system including the Long Count?",
+            "answers": [
+                "Maya",
+                "Phoenicians",
+                "Assyrians"
+            ],
+            "correct_answer": "Maya",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which Roman emperor issued the Edict of Milan with Licinius in AD 313?",
+            "answers": [
+                "Constantine I",
+                "Nero",
+                "Trajan"
+            ],
+            "correct_answer": "Constantine I",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which treaty ended the War of the Spanish Succession in 1713?",
+            "answers": [
+                "Treaty of Utrecht",
+                "Treaty of Tordesillas",
+                "Treaty of Ghent"
+            ],
+            "correct_answer": "Treaty of Utrecht",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which Byzantine emperor ordered the construction of the Hagia Sophia completed in 537?",
+            "answers": [
+                "Justinian I",
+                "Constantine XI",
+                "Basil II"
+            ],
+            "correct_answer": "Justinian I",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which Chinese admiral led major Ming treasure voyages in the early 15th century?",
+            "answers": [
+                "Zheng He",
+                "Sun Tzu",
+                "Kublai Khan"
+            ],
+            "correct_answer": "Zheng He",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which ancient empire was ruled by Darius I and Xerxes I?",
+            "answers": [
+                "Achaemenid Persian Empire",
+                "Mauryan Empire",
+                "Seleucid Empire"
+            ],
+            "correct_answer": "Achaemenid Persian Empire",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which 1884-85 meeting set rules for European colonisation and trade in Africa?",
+            "answers": [
+                "Berlin Conference",
+                "Vienna Congress",
+                "Yalta Conference"
+            ],
+            "correct_answer": "Berlin Conference",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who became shogun after victory at the Battle of Sekigahara in 1600?",
+            "answers": [
+                "Tokugawa Ieyasu",
+                "Oda Nobunaga",
+                "Toyotomi Hideyoshi"
+            ],
+            "correct_answer": "Tokugawa Ieyasu",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which ruler founded the Maurya Empire in ancient India?",
+            "answers": [
+                "Chandragupta Maurya",
+                "Ashoka",
+                "Harsha"
+            ],
+            "correct_answer": "Chandragupta Maurya",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which treaty formally ended the First Opium War in 1842?",
+            "answers": [
+                "Treaty of Nanking",
+                "Treaty of Portsmouth",
+                "Treaty of Shimonoseki"
+            ],
+            "correct_answer": "Treaty of Nanking",
+            "category": "History",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which ruler is traditionally associated with the law code known as Hammurabi's Code?",
+            "answers": [
+                "Hammurabi",
+                "Sargon of Akkad",
+                "Nebuchadnezzar II"
+            ],
+            "correct_answer": "Hammurabi",
+            "category": "History",
+            "difficulty": "Hard"
+        }
+    ],
+    "Geography": [
+        {
+            "text": "What is the largest continent by area?",
+            "answers": [
+                "Asia",
+                "Africa",
+                "Europe"
+            ],
+            "correct_answer": "Asia",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which river flows through London?",
+            "answers": [
+                "Thames",
+                "Seine",
+                "Danube"
+            ],
+            "correct_answer": "Thames",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the capital of Spain?",
+            "answers": [
+                "Madrid",
+                "Barcelona",
+                "Lisbon"
+            ],
+            "correct_answer": "Madrid",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which country is shaped roughly like a boot?",
+            "answers": [
+                "Italy",
+                "Greece",
+                "Portugal"
+            ],
+            "correct_answer": "Italy",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which ocean lies west of Europe?",
+            "answers": [
+                "Atlantic Ocean",
+                "Pacific Ocean",
+                "Indian Ocean"
+            ],
+            "correct_answer": "Atlantic Ocean",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Mount Everest lies in which mountain range?",
+            "answers": [
+                "Himalayas",
+                "Andes",
+                "Alps"
+            ],
+            "correct_answer": "Himalayas",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which country contains the city of Toronto?",
+            "answers": [
+                "Canada",
+                "United States",
+                "Australia"
+            ],
+            "correct_answer": "Canada",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the longest river in South America?",
+            "answers": [
+                "Amazon",
+                "Paraná",
+                "Orinoco"
+            ],
+            "correct_answer": "Amazon",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which desert covers much of northern Africa?",
+            "answers": [
+                "Sahara",
+                "Gobi",
+                "Kalahari"
+            ],
+            "correct_answer": "Sahara",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the capital of Germany?",
+            "answers": [
+                "Berlin",
+                "Munich",
+                "Frankfurt"
+            ],
+            "correct_answer": "Berlin",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which continent is the South Pole located on?",
+            "answers": [
+                "Antarctica",
+                "Asia",
+                "South America"
+            ],
+            "correct_answer": "Antarctica",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which country has a maple leaf on its national flag?",
+            "answers": [
+                "Canada",
+                "Austria",
+                "Denmark"
+            ],
+            "correct_answer": "Canada",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the capital of Scotland?",
+            "answers": [
+                "Edinburgh",
+                "Glasgow",
+                "Aberdeen"
+            ],
+            "correct_answer": "Edinburgh",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which sea separates much of southern Europe from northern Africa?",
+            "answers": [
+                "Mediterranean Sea",
+                "Baltic Sea",
+                "North Sea"
+            ],
+            "correct_answer": "Mediterranean Sea",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the capital of Argentina?",
+            "answers": [
+                "Buenos Aires",
+                "Santiago",
+                "Lima"
+            ],
+            "correct_answer": "Buenos Aires",
+            "category": "Geography",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the capital of Australia?",
+            "answers": [
+                "Canberra",
+                "Sydney",
+                "Melbourne"
+            ],
+            "correct_answer": "Canberra",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the capital of New Zealand?",
+            "answers": [
+                "Wellington",
+                "Auckland",
+                "Christchurch"
+            ],
+            "correct_answer": "Wellington",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which river flows through Paris?",
+            "answers": [
+                "Seine",
+                "Rhine",
+                "Loire"
+            ],
+            "correct_answer": "Seine",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which African country has Addis Ababa as its capital?",
+            "answers": [
+                "Ethiopia",
+                "Kenya",
+                "Sudan"
+            ],
+            "correct_answer": "Ethiopia",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which mountain range forms much of the border between France and Spain?",
+            "answers": [
+                "Pyrenees",
+                "Alps",
+                "Carpathians"
+            ],
+            "correct_answer": "Pyrenees",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the largest island in the world that is not considered a continent?",
+            "answers": [
+                "Greenland",
+                "New Guinea",
+                "Borneo"
+            ],
+            "correct_answer": "Greenland",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which US state is made up of an island chain in the central Pacific?",
+            "answers": [
+                "Hawaii",
+                "Alaska",
+                "Florida"
+            ],
+            "correct_answer": "Hawaii",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which river runs through Budapest?",
+            "answers": [
+                "Danube",
+                "Rhine",
+                "Elbe"
+            ],
+            "correct_answer": "Danube",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country is home to the ancient city of Petra?",
+            "answers": [
+                "Jordan",
+                "Lebanon",
+                "Egypt"
+            ],
+            "correct_answer": "Jordan",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which strait separates Spain from Morocco?",
+            "answers": [
+                "Strait of Gibraltar",
+                "Bering Strait",
+                "Bosporus"
+            ],
+            "correct_answer": "Strait of Gibraltar",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the capital of Vietnam?",
+            "answers": [
+                "Hanoi",
+                "Ho Chi Minh City",
+                "Da Nang"
+            ],
+            "correct_answer": "Hanoi",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which lake is shared by Peru and Bolivia?",
+            "answers": [
+                "Lake Titicaca",
+                "Lake Victoria",
+                "Lake Baikal"
+            ],
+            "correct_answer": "Lake Titicaca",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which river forms much of the border between the United States and Mexico?",
+            "answers": [
+                "Rio Grande",
+                "Colorado",
+                "Missouri"
+            ],
+            "correct_answer": "Rio Grande",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which mountain is the highest peak in Africa?",
+            "answers": [
+                "Mount Kilimanjaro",
+                "Mount Kenya",
+                "Ras Dashen"
+            ],
+            "correct_answer": "Mount Kilimanjaro",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country contains the region of Transylvania?",
+            "answers": [
+                "Romania",
+                "Hungary",
+                "Bulgaria"
+            ],
+            "correct_answer": "Romania",
+            "category": "Geography",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which country completely surrounds Lesotho?",
+            "answers": [
+                "South Africa",
+                "Botswana",
+                "Zimbabwe"
+            ],
+            "correct_answer": "South Africa",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which country has the most natural lakes?",
+            "answers": [
+                "Canada",
+                "Russia",
+                "Finland"
+            ],
+            "correct_answer": "Canada",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which European capital stands on the River Liffey?",
+            "answers": [
+                "Dublin",
+                "Prague",
+                "Vienna"
+            ],
+            "correct_answer": "Dublin",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the capital of Kyrgyzstan?",
+            "answers": [
+                "Bishkek",
+                "Tashkent",
+                "Dushanbe"
+            ],
+            "correct_answer": "Bishkek",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which country has the exclave of Kaliningrad?",
+            "answers": [
+                "Russia",
+                "Poland",
+                "Lithuania"
+            ],
+            "correct_answer": "Russia",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the deepest lake in the world?",
+            "answers": [
+                "Lake Baikal",
+                "Lake Tanganyika",
+                "Caspian Sea"
+            ],
+            "correct_answer": "Lake Baikal",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which African lake is the principal source of the White Nile?",
+            "answers": [
+                "Lake Victoria",
+                "Lake Chad",
+                "Lake Malawi"
+            ],
+            "correct_answer": "Lake Victoria",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the capital of Suriname?",
+            "answers": [
+                "Paramaribo",
+                "Georgetown",
+                "Cayenne"
+            ],
+            "correct_answer": "Paramaribo",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which country occupies the eastern half of the island of Timor?",
+            "answers": [
+                "Timor-Leste",
+                "Indonesia",
+                "Papua New Guinea"
+            ],
+            "correct_answer": "Timor-Leste",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the capital of Mongolia?",
+            "answers": [
+                "Ulaanbaatar",
+                "Astana",
+                "Bishkek"
+            ],
+            "correct_answer": "Ulaanbaatar",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which desert spans parts of Botswana, Namibia and South Africa?",
+            "answers": [
+                "Kalahari",
+                "Namib",
+                "Sahara"
+            ],
+            "correct_answer": "Kalahari",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which river flows through Baghdad?",
+            "answers": [
+                "Tigris",
+                "Euphrates",
+                "Jordan"
+            ],
+            "correct_answer": "Tigris",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which European country has Ljubljana as its capital?",
+            "answers": [
+                "Slovenia",
+                "Slovakia",
+                "Croatia"
+            ],
+            "correct_answer": "Slovenia",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which sea has no land coastline and is bounded by ocean currents?",
+            "answers": [
+                "Sargasso Sea",
+                "Arabian Sea",
+                "Coral Sea"
+            ],
+            "correct_answer": "Sargasso Sea",
+            "category": "Geography",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which two countries share the island of Hispaniola?",
+            "answers": [
+                "Haiti and the Dominican Republic",
+                "Cuba and Jamaica",
+                "Honduras and Nicaragua"
+            ],
+            "correct_answer": "Haiti and the Dominican Republic",
+            "category": "Geography",
+            "difficulty": "Hard"
+        }
+    ],
+    "Video Games": [
+        {
+            "text": "Which company created the Mario character?",
+            "answers": [
+                "Nintendo",
+                "Sony",
+                "Sega"
+            ],
+            "correct_answer": "Nintendo",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What colour is Sonic the Hedgehog most commonly shown as?",
+            "answers": [
+                "Blue",
+                "Red",
+                "Green"
+            ],
+            "correct_answer": "Blue",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "In Minecraft, what tool is most commonly used to mine stone?",
+            "answers": [
+                "Pickaxe",
+                "Shovel",
+                "Hoe"
+            ],
+            "correct_answer": "Pickaxe",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the name of the yellow character who eats dots in a maze?",
+            "answers": [
+                "Pac-Man",
+                "Kirby",
+                "Mega Man"
+            ],
+            "correct_answer": "Pac-Man",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which company produces PlayStation consoles?",
+            "answers": [
+                "Sony",
+                "Microsoft",
+                "Nintendo"
+            ],
+            "correct_answer": "Sony",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which game features creatures called Creepers?",
+            "answers": [
+                "Minecraft",
+                "Fortnite",
+                "Roblox"
+            ],
+            "correct_answer": "Minecraft",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which Pokémon is famous for being yellow and using electricity?",
+            "answers": [
+                "Pikachu",
+                "Charmander",
+                "Squirtle"
+            ],
+            "correct_answer": "Pikachu",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which company produces the Xbox consoles?",
+            "answers": [
+                "Microsoft",
+                "Nintendo",
+                "Atari"
+            ],
+            "correct_answer": "Microsoft",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "In Mario games, what is Luigi's relationship to Mario?",
+            "answers": [
+                "Brother",
+                "Father",
+                "Cousin"
+            ],
+            "correct_answer": "Brother",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which battle royale game is known for building structures as part of gameplay?",
+            "answers": [
+                "Fortnite",
+                "Tetris",
+                "Portal"
+            ],
+            "correct_answer": "Fortnite",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What type of game is Tetris primarily?",
+            "answers": [
+                "Puzzle game",
+                "Racing game",
+                "Sports game"
+            ],
+            "correct_answer": "Puzzle game",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which character is the main mascot of Sega?",
+            "answers": [
+                "Sonic the Hedgehog",
+                "Crash Bandicoot",
+                "Kirby"
+            ],
+            "correct_answer": "Sonic the Hedgehog",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "What is the name of the kingdom most often ruled by Princess Peach in Mario games?",
+            "answers": [
+                "Mushroom Kingdom",
+                "Hyrule",
+                "Dream Land"
+            ],
+            "correct_answer": "Mushroom Kingdom",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which console introduced motion controls through the Wii Remote?",
+            "answers": [
+                "Nintendo Wii",
+                "PlayStation 2",
+                "Xbox 360"
+            ],
+            "correct_answer": "Nintendo Wii",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which game introduced the character Lara Croft in 1996?",
+            "answers": [
+                "Tomb Raider",
+                "Uncharted",
+                "Prince of Persia"
+            ],
+            "correct_answer": "Tomb Raider",
+            "category": "Video Games",
+            "difficulty": "Easy"
+        },
+        {
+            "text": "Which game series features the character Link?",
+            "answers": [
+                "The Legend of Zelda",
+                "Final Fantasy",
+                "Halo"
+            ],
+            "correct_answer": "The Legend of Zelda",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which game series features Master Chief?",
+            "answers": [
+                "Halo",
+                "Doom",
+                "Mass Effect"
+            ],
+            "correct_answer": "Halo",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which game series includes the regions Kanto and Johto?",
+            "answers": [
+                "Pokémon",
+                "Animal Crossing",
+                "Metroid"
+            ],
+            "correct_answer": "Pokémon",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which company developed the original Doom released in 1993?",
+            "answers": [
+                "id Software",
+                "Valve",
+                "Blizzard Entertainment"
+            ],
+            "correct_answer": "id Software",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which studio developed Half-Life?",
+            "answers": [
+                "Valve",
+                "Bungie",
+                "Rare"
+            ],
+            "correct_answer": "Valve",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In The Elder Scrolls V: Skyrim, what is the player character commonly called?",
+            "answers": [
+                "Dragonborn",
+                "Grey Warden",
+                "Vault Dweller"
+            ],
+            "correct_answer": "Dragonborn",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which 2002 Grand Theft Auto game is set in a fictional city inspired by Miami?",
+            "answers": [
+                "Grand Theft Auto: Vice City",
+                "Grand Theft Auto III",
+                "Grand Theft Auto: San Andreas"
+            ],
+            "correct_answer": "Grand Theft Auto: Vice City",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which game series features the character Solid Snake?",
+            "answers": [
+                "Metal Gear",
+                "Resident Evil",
+                "Tekken"
+            ],
+            "correct_answer": "Metal Gear",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which company developed World of Warcraft?",
+            "answers": [
+                "Blizzard Entertainment",
+                "BioWare",
+                "Bethesda"
+            ],
+            "correct_answer": "Blizzard Entertainment",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In Portal, what is the name of the artificial intelligence antagonist?",
+            "answers": [
+                "GLaDOS",
+                "Cortana",
+                "SHODAN"
+            ],
+            "correct_answer": "GLaDOS",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which Nintendo series features bounty hunter Samus Aran?",
+            "answers": [
+                "Metroid",
+                "F-Zero",
+                "Star Fox"
+            ],
+            "correct_answer": "Metroid",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "In Pokémon, which type is traditionally super effective against Water-type Pokémon?",
+            "answers": [
+                "Electric",
+                "Fire",
+                "Rock"
+            ],
+            "correct_answer": "Electric",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which studio created the Dark Souls series?",
+            "answers": [
+                "FromSoftware",
+                "Capcom",
+                "Konami"
+            ],
+            "correct_answer": "FromSoftware",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "Which 2007 game features the underwater city of Rapture?",
+            "answers": [
+                "BioShock",
+                "Crysis",
+                "Mass Effect"
+            ],
+            "correct_answer": "BioShock",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the name of the AI companion in Halo who assists Master Chief through much of the series?",
+            "answers": [
+                "Cortana",
+                "EDI",
+                "GLaDOS"
+            ],
+            "correct_answer": "Cortana",
+            "category": "Video Games",
+            "difficulty": "Medium"
+        },
+        {
+            "text": "What is the name of the main continent in The Witcher 3 commonly referred to by fans and in lore?",
+            "answers": [
+                "The Continent",
+                "Tamriel",
+                "Thedas"
+            ],
+            "correct_answer": "The Continent",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Who designed the original 1984 version of Tetris?",
+            "answers": [
+                "Alexey Pajitnov",
+                "Shigeru Miyamoto",
+                "John Carmack"
+            ],
+            "correct_answer": "Alexey Pajitnov",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which company released the Dreamcast console?",
+            "answers": [
+                "Sega",
+                "Nintendo",
+                "NEC"
+            ],
+            "correct_answer": "Sega",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which company created the classic arcade game 'Space Invaders'?",
+            "answers": [
+                "Taito",
+                "Sega",
+                "Namco"
+            ],
+            "correct_answer": "Taito",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which game engine powered the original Half-Life and was heavily modified from Quake technology?",
+            "answers": [
+                "GoldSrc",
+                "Source 2",
+                "Unreal Engine"
+            ],
+            "correct_answer": "GoldSrc",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which role-playing game introduced the character Cloud Strife?",
+            "answers": [
+                "Final Fantasy VII",
+                "Chrono Trigger",
+                "Final Fantasy VI"
+            ],
+            "correct_answer": "Final Fantasy VII",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which ancient species built the Halo ring installations in the Halo series?",
+            "answers": [
+                "Forerunners",
+                "Covenant",
+                "Flood"
+            ],
+            "correct_answer": "Forerunners",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which developer created the 1998 stealth game Thief: The Dark Project?",
+            "answers": [
+                "Looking Glass Studios",
+                "Ion Storm",
+                "Origin Systems"
+            ],
+            "correct_answer": "Looking Glass Studios",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "What is the name of the protagonist of the original Deus Ex?",
+            "answers": [
+                "JC Denton",
+                "Adam Jensen",
+                "Gordon Freeman"
+            ],
+            "correct_answer": "JC Denton",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which composer is strongly associated with the music of the Super Mario and The Legend of Zelda series?",
+            "answers": [
+                "Koji Kondo",
+                "Nobuo Uematsu",
+                "Yoko Shimomura"
+            ],
+            "correct_answer": "Koji Kondo",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which company originally developed the Fallout series before Bethesda acquired the franchise rights?",
+            "answers": [
+                "Interplay",
+                "Sierra",
+                "LucasArts"
+            ],
+            "correct_answer": "Interplay",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "In Dark Souls, what is the name of the city of the gods reached after Sen's Fortress?",
+            "answers": [
+                "Anor Londo",
+                "Yharnam",
+                "Boletaria"
+            ],
+            "correct_answer": "Anor Londo",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which 1993 adventure game was set largely on a mysterious island and became known for its pre-rendered graphics?",
+            "answers": [
+                "Myst",
+                "Grim Fandango",
+                "Monkey Island 2"
+            ],
+            "correct_answer": "Myst",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which studio developed the original System Shock released in 1994?",
+            "answers": [
+                "Looking Glass Technologies",
+                "id Software",
+                "Westwood Studios"
+            ],
+            "correct_answer": "Looking Glass Technologies",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        },
+        {
+            "text": "Which 1997 Nintendo 64 game is widely known for popularising console first-person shooters with split-screen multiplayer?",
+            "answers": [
+                "GoldenEye 007",
+                "Perfect Dark",
+                "Turok 2"
+            ],
+            "correct_answer": "GoldenEye 007",
+            "category": "Video Games",
+            "difficulty": "Hard"
+        }
+    ]
+}
