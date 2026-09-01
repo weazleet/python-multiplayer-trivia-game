@@ -59,6 +59,8 @@ Further development may include additional questions, categories, game modes, an
 
 ## Known Issues
 
+Windows may display a SmartScreen warning when launching the standalone version because the application is currently unsigned.
+
 UI elements may scale or align incorrectly when Windows display scaling is above 100%.
 
 ## Screenshots
