@@ -47,11 +47,15 @@ python.exe ui.py
 
 The packaged PyInstaller version does not require the user to install Python or CustomTkinter.
 
+The standalone build has been successfully tested on a clean Windows installation.
+
 ## Project Status
 
 The core game is complete and fully playable.
 
-Current development is focused on UI polish, packaging, and final testing across different team sizes and operating systems.
+The standalone Windows build has been successfully tested on a clean Windows installation without Python or CustomTkinter installed.
+
+Further development may include additional questions, categories, game modes, and UI improvements.
 
 ## Known Issues
 
