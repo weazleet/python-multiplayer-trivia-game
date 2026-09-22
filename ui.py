@@ -54,7 +54,10 @@ class QuizUI:
         self.window.after(150, self.maximiseWindow)
 
     def maximiseWindow(self):
-        self.window.state("zoomed")
+        try:
+            self.window.state("zoomed")
+        except Exception:
+            self.window.attributes("-zoomed", True)
 
     def run(self):
         self.window.mainloop()
