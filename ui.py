@@ -424,7 +424,7 @@ class QuizUI:
 
         sortedTeams = sorted(self.game.teams, key=lambda team: team.score, reverse=True)
 
-        if len(sortedTeams) <= 4:
+        if len(sortedTeams) <= 2:
             resultsGrid = ctk.CTkFrame(contentFrame, fg_color="transparent")
         else:
             resultsGrid = ctk.CTkScrollableFrame(contentFrame, fg_color="transparent")
@@ -514,7 +514,7 @@ class QuizUI:
                                  f"Categories Played: {', '.join(self.game.usedCategories)}", font=self.fontBody)
         infoLabel.grid(row=0, column=0, pady=10)
 
-        if len(sortedTeams) <= 4:
+        if len(sortedTeams) <= 2:
             standingsFrame = ctk.CTkFrame(contentFrame, fg_color="transparent")
         else:
             standingsFrame = ctk.CTkScrollableFrame(contentFrame, fg_color="transparent")
