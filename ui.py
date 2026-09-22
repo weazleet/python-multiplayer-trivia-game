@@ -255,7 +255,7 @@ class QuizUI:
         title = ctk.CTkLabel(headerFrame, text="ENTER TEAM NAMES", font=self.fontScreenTitle)
         title.pack(pady=20)
 
-        entriesFrame = ctk.CTkFrame(contentFrame, fg_color="transparent")
+        entriesFrame = ctk.CTkScrollableFrame(contentFrame, fg_color="transparent")
         entriesFrame.pack(expand=True)
   
         self.teamNameEntries = []
